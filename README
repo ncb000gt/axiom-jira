@@ -1,0 +1,38 @@
+axiom-jira
+-------------
+
+A module for Axiom Stack that allows you to access your Jira instance and do things with that instance.
+
+
+Features
+------------
+
+Accounts
+- Get
+- Create
+- Remove
+
+Groups
+- Get
+- Add User
+- Remove User
+
+Issues
+- Get
+
+Projects
+- Get
+- Create
+- Remove
+
+Schemes
+- Security
+- Permission
+- Notification
+
+
+Usage
+--------------
+
+Put the module in your <axiom_root>/modules directory.
+List the module in your app.properties file.
